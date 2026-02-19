@@ -259,6 +259,6 @@ A huge thanks to the amazing open-source tools that power this project:
 
 *If this project helped you, please consider giving it a* ⭐ *— it means the world!*
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/book-recommendation?style=social)](https://github.com/yourusername/book-recommendation)
+[![Star on GitHub](https://img.shields.io/github/stars/Vimalraj-D/Book-Recommendation?style=social)](https://github.com/yourusername/book-recommendation)
 
 </div>
