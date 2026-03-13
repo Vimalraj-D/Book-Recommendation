@@ -869,6 +869,11 @@ throw new Error("API Error: "+response.status)
 
 const data = await response.json()
 
+if(!data.recommendations || data.recommendations.length===0){
+alert("No recommendations found")
+return
+}
+
 BOOKS=data.recommendations
 HAS_RESULTS=true
 
