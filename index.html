@@ -839,6 +839,8 @@ if(window.history.replaceState&&window.performance){
 <script>
 async function fetchBooks(){
 
+try{
+
 const title=document.querySelector("input[name='title']").value.trim()
 const k=document.querySelector("select[name='k']").value
 
@@ -870,7 +872,13 @@ showOpenBook(function(){
 render()
 })
 
+}catch(error){
+
+console.error(error)
+alert("Error connecting to AI server")
+
 }
+
 }
 </script>
 </body>
