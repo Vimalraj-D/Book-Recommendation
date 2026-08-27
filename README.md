@@ -24,6 +24,8 @@
 
 </div>
 
+Live link: https://huggingface.co/spaces/Vimalraj-D/BookSage_AI
+
 ---
 
 ## 🌟 What Is This?
